@@ -8,5 +8,6 @@
 - **En mis ratos libres me gusta ver peliculas y series**:film_strip:
 - **Me gusta dibujar y pintar**
 - **Me gusta aprender nuevas cosas**
+- **Actualmente estoy aprendiendo a programar**
 ## Contactame::e-mail:
 - ***milloshy.crisostomo@utec.edu.pe***
