@@ -4,7 +4,7 @@
 - **Tengo 18 años**
 - **Soy de Lima-Peru**
 - **Soy estudiante de la carrera de Ciencia de la Computacion en UTEC**:woman_student:
-- **Actualmente, me encuentro cursando el 1er ciclo de la carrera**
+- **Actualmente, me encuentro cursando el 3er ciclo de la carrera**
 ## Intereses:heart_decoration:
 - **En mis ratos libres me gusta ver peliculas y series**:film_strip:
 - **Me gusta dibujar y pintar**
