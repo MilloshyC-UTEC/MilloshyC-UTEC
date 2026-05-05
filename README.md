@@ -12,3 +12,4 @@
 - **Actualmente estoy realizando proyectos con python**
 ## Contactame::e-mail:
 - ***milloshy.crisostomo@utec.edu.pe***
+- [Linkedin](https://www.linkedin.com/in/milloshy-crisostomo-rodriguez-bb2137228/)
